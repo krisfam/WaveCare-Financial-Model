@@ -13,4 +13,4 @@ This project builds a 5-year financial projection model for WaveCare.
 
 ## Market Assumptions
 
-Total Addressable Market: 1,048 facilities
+Serviceable Available Market (SAM): 53239 residents at Y5. 
